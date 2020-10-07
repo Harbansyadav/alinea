@@ -14,9 +14,9 @@
     }
 
  {
-    echo 'Inserted';
+    echo 'Successfully Inserted';
     
 }        
 
-        header("refresh:2; url=sec.html");
+        header("refresh:2; url=index.html");
 ?>
